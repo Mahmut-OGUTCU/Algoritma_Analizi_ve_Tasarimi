@@ -18,6 +18,7 @@ ve sıralama algoritmaları olarak:
 6.	Quick Sort
 7.	Radix Sort
 algoritmaları kullanılmıştır.
+
 Öncelikle program çalıştırıldığında iki buton seçenek olarak çıkar. İstediğimiz türe (Arama ya da Sıralama) göre bir seçim yaptıktan sonra karşımıza yukarıda belirtilen algoritmalar yine aynı şekilde karşımıza çıkar.
  
 Eğer arama algoritmalarını kullanacaksak önümüze iki adet textbox çıkar ve birisi 0 ile 100000 arasında kaç sayı belirleneceği diğeri ise hangi sayıyı aratmak istediğimiz.
