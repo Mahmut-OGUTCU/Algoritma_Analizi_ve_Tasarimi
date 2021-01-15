@@ -1,7 +1,7 @@
 # Algoritma_Analizi_ve_Tasarimi
 Çeşitli arama ve sıralama algoritmalarının 0 ile 100000 sayıları arasında (bucket sort algoritması dışında) kullanıcı girişli sayı kadar rastgele sayıların sıralanmasında ya da aranmasındaki geçen sürenin ve işlem sayısının Python programlama dili kullanılarak bulunması ve karşılaştırılması hedeflenmiştir.
 Pythonda arayüz kütüphanesi olan tkinter modülü kullanılmış olup random sayı üretip daha kolay bir liste halinde tutabilmek için de numpy modülü kullanılmıştır. Tkinter modülü için herhangi bir ekleme yapılmadan kullanılabilirken, numpy modülü için;
- 
+ "pip install numpy"
 şeklinde kullanılan IDE ye yazarak modülün kurulması gerekmektedir.
 Arama algoritmaları olarak:
 1.	Binary Search
@@ -17,15 +17,10 @@ ve sıralama algoritmaları olarak:
 algoritmaları kullanılmıştır.
 Öncelikle program çalıştırıldığında iki buton seçenek olarak çıkar. İstediğimiz türe (Arama ya da Sıralama) göre bir seçim yaptıktan sonra karşımıza yukarıda belirtilen algoritmalar yine aynı şekilde karşımıza çıkar.
  
-Şekil 1. İlk sorgu.
-  
-Şekil 2. (A) Arama Algoritmaları seçimi sonucunda, (B) Sıralama Algoritmaları seçimi sonucunda.
 Eğer arama algoritmalarını kullanacaksak önümüze iki adet textbox çıkar ve birisi 0 ile 100000 arasında kaç sayı belirleneceği diğeri ise hangi sayıyı aratmak istediğimiz.
- 
-Şekil 3. Bir arama algoritması seçimi sonucunda.
+
 Arama algoritmaları değil de sıralama algoritmaları seçilmiş olsaydı karışımıza sadece bir adet textbox çıkardı ve bu da 0 ile 100000 arasında kaç sayı belirleneceği olurdu.
- 
-Şekil 4. Bir sıralama algoritması seçimi sonucunda.
+
 Bu değerlerin girdileri yapılıp algoritmalar başlatılır. Algoritmaların çalışması sonucunda:
 Arama algoritmalarında:
 1.	Bulunup bulunamama bilgisi,
