@@ -4,9 +4,12 @@ Pythonda arayüz kütüphanesi olan tkinter modülü kullanılmış olup random 
  "pip install numpy"
 şeklinde kullanılan IDE ye yazarak modülün kurulması gerekmektedir.
 Arama algoritmaları olarak:
+
 1.	Binary Search
 2.	Linear Search
+
 ve sıralama algoritmaları olarak:
+
 1.	Bucket Sort
 2.	Counting Sort
 3.	Heap Sort
