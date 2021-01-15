@@ -1,1 +1,1 @@
-# Algoritma-Analizi-ve-Tasar-m-
+# Algoritma_Analizi_ve_Tasarimi
